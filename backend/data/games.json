@@ -1,0 +1,92 @@
+[
+  {
+    "id": "game-1",
+    "title": "Cinder Crawler",
+    "genre": "Roguelike",
+    "price": 14.99,
+    "discount": 25,
+    "developer": "Ashfall Studio",
+    "image_url": "https://picsum.photos/seed/cinder-crawler/640/360",
+    "description": "Спускайтеся в вулканічне підземелля, де кожен забіг створює нову карту, нові зброю та нові пастки. Смерть остаточна, але прогрес між спробами зберігається."
+  },
+  {
+    "id": "game-2",
+    "title": "Moss & Mortar",
+    "genre": "Puzzle",
+    "price": 9.99,
+    "discount": 0,
+    "developer": "Quiet Brick Games",
+    "image_url": "https://picsum.photos/seed/moss-mortar/640/360",
+    "description": "Спокійна головоломка про відновлення старого мурованого саду: підбирайте камені, вирощуйте мох і відкривайте нові ділянки."
+  },
+  {
+    "id": "game-3",
+    "title": "Nightbus Blues",
+    "genre": "Adventure",
+    "price": 19.99,
+    "discount": 50,
+    "developer": "Lamp Post Collective",
+    "image_url": "https://picsum.photos/seed/nightbus-blues/640/360",
+    "description": "Нічний автобус, дванадцять пасажирів і одне місто, яке не хоче відпускати. Сюжетна пригода з вибором, що змінює фінал."
+  },
+  {
+    "id": "game-4",
+    "title": "Tiny Tactician",
+    "genre": "Strategy",
+    "price": 12.49,
+    "discount": 0,
+    "developer": "Hexagon Hat",
+    "image_url": "https://picsum.photos/seed/tiny-tactician/640/360",
+    "description": "Покрокова тактика на крихітних гексагональних картах. Один бій триває п'ять хвилин, але приховує десятки рішень."
+  },
+  {
+    "id": "game-5",
+    "title": "Echoes of Fenwick",
+    "genre": "Horror",
+    "price": 16.99,
+    "discount": 0,
+    "developer": "Foghorn Interactive",
+    "image_url": "https://picsum.photos/seed/echoes-fenwick/640/360",
+    "description": "Психологічний горор у покинутому маєтку. Ви чуєте голоси з минулого, але самі не маєте зброї."
+  },
+  {
+    "id": "game-6",
+    "title": "Spellbound Sprouts",
+    "genre": "Simulation",
+    "price": 11.99,
+    "discount": 30,
+    "developer": "Green Thumb Labs",
+    "image_url": "https://picsum.photos/seed/spellbound-sprouts/640/360",
+    "description": "Вирощуйте чарівні рослини, продавайте зілля та розширюйте теплицю. Симулятор для довгих вечорів."
+  },
+  {
+    "id": "game-7",
+    "title": "Orbit Janitors",
+    "genre": "Platformer",
+    "price": 8.99,
+    "discount": 0,
+    "developer": "Zero-G Mops",
+    "image_url": "https://picsum.photos/seed/orbit-janitors/640/360",
+    "description": "Платформер у невагомості: ви прибиральник космічної станції, а сміття має власний характер."
+  },
+  {
+    "id": "game-8",
+    "title": "Sunken Archive",
+    "genre": "RPG",
+    "price": 24.99,
+    "discount": 15,
+    "developer": "Tidewrought",
+    "image_url": "https://picsum.photos/seed/sunken-archive/640/360",
+    "description": "Рольова гра про підводну бібліотеку, де кожна книга відкриває нову гілку квестів і нового союзника."
+  },
+  {
+    "id": "game-9",
+    "title": "Dungeon Dishwasher",
+    "genre": "Roguelike",
+    "price": 6.99,
+    "discount": 10,
+    "developer": "Soapy Pixels",
+    "image_url": "https://picsum.photos/seed/dungeon-dishwasher/640/360",
+    "description": "Роглайк про посудомийника в підземеллі: мийте посуд героїв, збирайте залишки скарбів і виживайте на кухні."
+  }
+]

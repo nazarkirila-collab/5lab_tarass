@@ -1,0 +1,272 @@
+[
+  {
+    "id": "review-1",
+    "game_id": "game-1",
+    "author": "PixelPilgrim",
+    "is_recommended": true,
+    "hours_played": 48.5,
+    "text": "Кожен забіг відчувається по-новому. Баланс зброї майже ідеальний.",
+    "created_at": "2026-10-02T18:20:00.000Z"
+  },
+  {
+    "id": "review-2",
+    "game_id": "game-1",
+    "author": "ashen_fox",
+    "is_recommended": true,
+    "hours_played": 21,
+    "text": "Затягує на вечір, потім ще на один. Музика чудова.",
+    "created_at": "2026-10-05T21:05:00.000Z"
+  },
+  {
+    "id": "review-3",
+    "game_id": "game-1",
+    "author": "TomasK",
+    "is_recommended": true,
+    "hours_played": 63,
+    "text": "Одна з найкращих інді-ігор року у своєму жанрі.",
+    "created_at": "2026-10-09T09:40:00.000Z"
+  },
+  {
+    "id": "review-4",
+    "game_id": "game-1",
+    "author": "grumpy_dwarf",
+    "is_recommended": false,
+    "hours_played": 4,
+    "text": "Занадто багато випадковості, мені не вистачило контролю.",
+    "created_at": "2026-10-11T14:12:00.000Z"
+  },
+  {
+    "id": "review-5",
+    "game_id": "game-1",
+    "author": "LenaPlays",
+    "is_recommended": true,
+    "hours_played": 35.5,
+    "text": "Босів приємно вивчати, а забіги не затягуються.",
+    "created_at": "2026-10-14T19:30:00.000Z"
+  },
+  {
+    "id": "review-6",
+    "game_id": "game-2",
+    "author": "MossLover",
+    "is_recommended": true,
+    "hours_played": 12,
+    "text": "Дуже заспокійливо. Ідеально після робочого дня.",
+    "created_at": "2026-10-03T20:00:00.000Z"
+  },
+  {
+    "id": "review-7",
+    "game_id": "game-2",
+    "author": "quiet_owl",
+    "is_recommended": true,
+    "hours_played": 8.5,
+    "text": "Приємна графіка та продумані головоломки.",
+    "created_at": "2026-10-06T17:45:00.000Z"
+  },
+  {
+    "id": "review-8",
+    "game_id": "game-2",
+    "author": "BrickByBrick",
+    "is_recommended": false,
+    "hours_played": 2,
+    "text": "Для мене занадто повільна, але розумію її аудиторію.",
+    "created_at": "2026-10-12T11:10:00.000Z"
+  },
+  {
+    "id": "review-9",
+    "game_id": "game-3",
+    "author": "NightRider",
+    "is_recommended": true,
+    "hours_played": 15,
+    "text": "Історія зачепила до самого фіналу. Радий, що не пропустив.",
+    "created_at": "2026-10-01T22:15:00.000Z"
+  },
+  {
+    "id": "review-10",
+    "game_id": "game-3",
+    "author": "olya_reads",
+    "is_recommended": true,
+    "hours_played": 11,
+    "text": "Діалоги написані дуже живо, вибір справді має наслідки.",
+    "created_at": "2026-10-04T13:25:00.000Z"
+  },
+  {
+    "id": "review-11",
+    "game_id": "game-3",
+    "author": "Vadym_UA",
+    "is_recommended": true,
+    "hours_played": 13.5,
+    "text": "Атмосфера міста передана бездоганно.",
+    "created_at": "2026-10-08T23:50:00.000Z"
+  },
+  {
+    "id": "review-12",
+    "game_id": "game-3",
+    "author": "coldcoffee",
+    "is_recommended": true,
+    "hours_played": 9,
+    "text": "Коротка, але запам'ятовується надовго.",
+    "created_at": "2026-10-15T08:30:00.000Z"
+  },
+  {
+    "id": "review-13",
+    "game_id": "game-4",
+    "author": "HexMaster",
+    "is_recommended": true,
+    "hours_played": 30,
+    "text": "Глибока тактика в маленькому форматі. Рекомендую фанатам жанру.",
+    "created_at": "2026-10-02T16:00:00.000Z"
+  },
+  {
+    "id": "review-14",
+    "game_id": "game-4",
+    "author": "tactician_nick",
+    "is_recommended": false,
+    "hours_played": 6,
+    "text": "Штучний інтелект суперника прогнозований, швидко набридло.",
+    "created_at": "2026-10-07T12:35:00.000Z"
+  },
+  {
+    "id": "review-15",
+    "game_id": "game-4",
+    "author": "Marta",
+    "is_recommended": true,
+    "hours_played": 18,
+    "text": "Ідеальна гра для коротких сесій.",
+    "created_at": "2026-10-13T18:05:00.000Z"
+  },
+  {
+    "id": "review-16",
+    "game_id": "game-4",
+    "author": "slow_burn",
+    "is_recommended": false,
+    "hours_played": 3,
+    "text": "Не вистачає різноманітності карт.",
+    "created_at": "2026-10-16T10:20:00.000Z"
+  },
+  {
+    "id": "review-17",
+    "game_id": "game-5",
+    "author": "FoggyLamp",
+    "is_recommended": false,
+    "hours_played": 2.5,
+    "text": "Налякала, але через відсутність геймплею швидко втратила інтерес.",
+    "created_at": "2026-10-03T23:10:00.000Z"
+  },
+  {
+    "id": "review-18",
+    "game_id": "game-5",
+    "author": "scaredy_cat",
+    "is_recommended": false,
+    "hours_played": 1,
+    "text": "Постійні збої, не змогла пройти далі першої кімнати.",
+    "created_at": "2026-10-06T21:40:00.000Z"
+  },
+  {
+    "id": "review-19",
+    "game_id": "game-5",
+    "author": "DarkHour",
+    "is_recommended": true,
+    "hours_played": 7,
+    "text": "Атмосфера класна, але сюжет сирий.",
+    "created_at": "2026-10-10T01:15:00.000Z"
+  },
+  {
+    "id": "review-20",
+    "game_id": "game-5",
+    "author": "nope_nope",
+    "is_recommended": false,
+    "hours_played": 0.5,
+    "text": "Не для мене, повернув гру.",
+    "created_at": "2026-10-18T20:00:00.000Z"
+  },
+  {
+    "id": "review-21",
+    "game_id": "game-6",
+    "author": "GreenThumb",
+    "is_recommended": true,
+    "hours_played": 55,
+    "text": "Тепла атмосфера і приємний ритм. Не можу зупинитися.",
+    "created_at": "2026-10-01T10:00:00.000Z"
+  },
+  {
+    "id": "review-22",
+    "game_id": "game-6",
+    "author": "herbalist",
+    "is_recommended": true,
+    "hours_played": 40.5,
+    "text": "Зілля, рослини, економіка — усе працює разом.",
+    "created_at": "2026-10-05T15:15:00.000Z"
+  },
+  {
+    "id": "review-23",
+    "game_id": "game-6",
+    "author": "DenysK",
+    "is_recommended": true,
+    "hours_played": 27,
+    "text": "Підтримка модів зробила гру ще кращою.",
+    "created_at": "2026-10-09T19:00:00.000Z"
+  },
+  {
+    "id": "review-24",
+    "game_id": "game-6",
+    "author": "tea_and_code",
+    "is_recommended": true,
+    "hours_played": 33,
+    "text": "Найкращий розслаблюючий симулятор за останній час.",
+    "created_at": "2026-10-12T21:25:00.000Z"
+  },
+  {
+    "id": "review-25",
+    "game_id": "game-6",
+    "author": "pixel_gardener",
+    "is_recommended": true,
+    "hours_played": 19,
+    "text": "Не відірватися, дуже приємна гра.",
+    "created_at": "2026-10-15T12:45:00.000Z"
+  },
+  {
+    "id": "review-26",
+    "game_id": "game-7",
+    "author": "ZeroG_Zoe",
+    "is_recommended": true,
+    "hours_played": 10,
+    "text": "Керування вдале, рівні кмітливо побудовані.",
+    "created_at": "2026-10-04T14:50:00.000Z"
+  },
+  {
+    "id": "review-27",
+    "game_id": "game-7",
+    "author": "mop_it_up",
+    "is_recommended": false,
+    "hours_played": 1.5,
+    "text": "Фізика інколи глючить, довелося перезапускати рівні.",
+    "created_at": "2026-10-08T16:05:00.000Z"
+  },
+  {
+    "id": "review-28",
+    "game_id": "game-8",
+    "author": "DeepReader",
+    "is_recommended": true,
+    "hours_played": 70,
+    "text": "Світ великий, квести цікаві, але є пара багів.",
+    "created_at": "2026-10-02T12:00:00.000Z"
+  },
+  {
+    "id": "review-29",
+    "game_id": "game-8",
+    "author": "archivist",
+    "is_recommended": true,
+    "hours_played": 52,
+    "text": "Рольова гра, яку я чекав роками.",
+    "created_at": "2026-10-07T20:30:00.000Z"
+  },
+  {
+    "id": "review-30",
+    "game_id": "game-8",
+    "author": "SeaDog",
+    "is_recommended": true,
+    "hours_played": 41.5,
+    "text": "Підводний світ красиво намальований, сюжет тримає.",
+    "created_at": "2026-10-14T17:10:00.000Z"
+  }
+]
